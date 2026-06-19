@@ -1,2 +1,73 @@
-# java-project-spring-boot-lou-dong-guan-li
-java-project-spring-boot-lou-dong-guan-li - Java毕业设计源码
+# springboot学习框架
+
+> 🎓 **Java 毕业设计源码分享** | 适合计算机相关专业毕业设计、课程设计参考学习
+
+## 📌 项目简介
+
+本项目是 **springboot学习框架**，采用主流 Java Web 技术栈开发，功能完整、结构清晰，非常适合作为毕业设计或课程设计的参考源码。
+
+**仓库名**：`java-project-spring-boot-lou-dong-guan-li`
+
+**原始压缩包名**：`基于spring boot的楼栋管理系统`
+
+---
+
+## 🛠️ 技术栈
+
+- **后端**：Java、Maven、Spring Boot、Spring Boot Web
+- **前端**：CSS、HTML、JavaScript、Vue.js
+- **其他**：XML
+
+---
+
+## 👥 系统角色
+
+本系统主要包含以下角色：
+
+普通用户、管理员
+
+不同角色拥有不同的菜单权限和数据访问范围，实现基础的权限管理。
+
+---
+
+## ✨ 主要功能
+
+1. 用户登录注册
+2. 个人信息管理
+3. 数据增删改查
+4. 信息查询统计
+5. 系统配置管理
+
+---
+
+## 🚀 运行说明
+
+1. **开发环境**：JDK 1.8 / JDK 11，推荐 IDEA 或 Eclipse。
+2. **导入项目**：将本仓库导入 IDE，等待 Maven 自动下载依赖。
+3. **数据库配置**：原 `application.yml` / `application.properties` 数据库配置文件已移除，请根据本地 MySQL 环境自行配置。
+4. **数据库脚本**：SQL 建库脚本未包含在本仓库中，如需完整数据库文件请联系下方微信获取。
+5. **启动项目**：运行主类 `XxxApplication.java`，启动成功后访问 `http://localhost:8080`。
+
+---
+
+## ⚠️ 重要说明
+
+- 本仓库源码**仅供学习参考**，已移除数据库配置和部分依赖，直接运行可能无法启动。
+- 如需**完整可运行版本**、数据库文件、论文、PPT、开题报告、部署教程，请扫码添加微信获取。
+- 请勿将本源码直接用于商业用途或原样提交作为毕业设计。
+
+---
+
+## 📞 联系方式
+
+| 方式 | 信息 |
+|------|------|
+| 🌐 网站 | [geekcode.top](http://geekcode.top) |
+| 💬 微信 | **ir9372** |
+| 📱 扫码 | 扫描下方二维码添加微信 |
+
+![微信二维码](./wechat_qr.jpg)
+
+---
+
+*🔥 更多 Java 毕业设计源码、项目定制、代码答疑，请关注网站 **[geekcode.top](http://geekcode.top)** 或添加微信咨询。*
